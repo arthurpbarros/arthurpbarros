@@ -1,9 +1,9 @@
 # Olá, sou Arthur
 ## Desenvolvedor Web
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurpbarros&show_icons=true&theme=default)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpbarros&layout=compact&theme=default)](https://github.com/arthurpbarrosgithub-readme-stats)
+<div style="text-align: center">
+<img src="https://github-readme-stats.vercel.app/api?username=arthurpbarros&show_icons=true&theme=default">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpbarros&layout=compact&theme=default)](https://github.com/arthurpbarrosgithub-readme-stats" height="195px"/>   
+</div>
 
 ### Frameworks
 <div style="text-align: center">

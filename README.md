@@ -5,7 +5,7 @@
 ### Estatísticas
 <div style="text-align: center">
 <img src="https://github-readme-stats.vercel.app/api?username=arthurpbarros&show_icons=true&theme=default">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpbarros&layout=compact&theme=default)](https://github.com/arthurpbarrosgithub-readme-stats" height="195px"/>   
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpbarros&layout=compact&theme=default&langs_count=8)](https://github.com/arthurpbarrosgithub-readme-stats" height="195px"/>   
 </div>
 
 ### Frameworks

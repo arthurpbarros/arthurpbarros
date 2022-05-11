@@ -4,8 +4,8 @@
 
 ### Estatísticas
 <div style="text-align: center">
-<img src="https://github-readme-stats.vercel.app/api?username=arthurpbarros&show_icons=true&theme=moltack">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpbarros&layout=compact&theme=moltack&langs_count=8)](https://github.com/arthurpbarrosgithub-readme-stats" height="195px"/>   
+<img src="https://github-readme-stats.vercel.app/api?username=arthurpbarros&show_icons=true&theme=swift">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpbarros&layout=compact&theme=swift&langs_count=6)](https://github.com/arthurpbarrosgithub-readme-stats" height="195px"/>   
 </div>
 
 ### Frameworks
